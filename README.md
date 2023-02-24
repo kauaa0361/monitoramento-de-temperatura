@@ -10,4 +10,4 @@ O sensor de temperatura é conectado ao pino analógico A0 do Arduino e é capaz
 ## Link
 Aqui esta o link para acessar o projeto no
 [Tinkercad](https://www.tinkercad.com/things/4C2DrXFNwgh?sharecode=4mN9__ZXQBVCZugdGeKR9u3BlNZY6U0cOfjONyhJm_0)
-
+![Circuito](./circuito1.png)
